@@ -1,4 +1,4 @@
-name = 'Bonnie'
+name = 'Monkey'
 animal_category = 'Cat'
 age = 3
 vaccinated = True
